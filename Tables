@@ -6,7 +6,6 @@ public static void main(String a[])
 {
  int n,i;
  Scanner sc= new Scanner(System.in);
- System.out.println("Name : Jia Harisinghani \nClass : C1 \nBatch : C13 \nRoll No. : 53 \n");
  System.out.println("Enter the number whose table you require");
  n=sc.nextInt();
  System.out.println("The table of "+n+" is ");
