@@ -1,5 +1,4 @@
 //Inheritance Code
-//Inheritance Code
 import java.util.*;
 import java.io.*;
 
