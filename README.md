@@ -54,7 +54,7 @@ javac FileName.java
 
 Run a Java program:
 ```
-java ClassName
+java FileName
 ```
 
 ## 💡 Found Issues?
